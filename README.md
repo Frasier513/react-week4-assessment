@@ -1,23 +1,19 @@
-# React Week 4 Assessment
+# Getting Started with Create React App
 
-## 📚 Course
-Full Stack Software Development: Building Scalable Cloud Applications  
-Great Learning — May 2025 Cohort
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 📝 About
-React application demonstrating advanced concepts: hooks (useState, useEffect, useContext), routing with React Router, and state management.
+## Installing node dependencies
 
-## 🛠️ Technologies
-- React 18
-- React Router
-- React Hooks
-- JSX / CSS Modules
+### `npm install`
 
-## ✅ Score
-60/60
+## Available Scripts
 
-## 🚀 Getting Started
-```bash
-npm install
-npm start
-```
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
